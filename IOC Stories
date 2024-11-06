@@ -12,4 +12,22 @@ Some of the citizens' records date back to the early 20th Century such as in 190
 Hence, it can be assumed that this is a staging server for the preparation of any Fraudulent Political Campaigns maintained by any group in advance of US Elections.
 Additionally, the group also collects data on luxurious brands such as Luxottica (Premium Eyewear), DeltaDental, Acuity (Insurance Provider), WatchMax (UK’s Diamond Jewellary) etc in a folder named “ZZ.TG.Downloads”. 
 
-Source: https://x.com/RakeshKrish12/status/1853703793101492487
+SOURCE: https://x.com/RakeshKrish12/status/1853703793101492487
+
+IOC
+154.197.69.165 🇹🇭
+https://154.197.69.165/
+
+TITLE: 3 RATs spotted in a single server!
+
+STORY:
+A Thai IP found with Open Directory hosting: XWorm, AsyncRAT and DarkComet RAT. The IP was previously assocaited with Formbook, Mirai Botnet.
+
+bb742b8bbfa3691e17a2fcbc633e6298: XWorm
+3ab61ee8a81099edddf87af587420a10: AsyncRAT
+3d2c42e4aca7233ac1becb634ad3fa0a: DarkComet
+https://154.197.69.165/XClient.exe: XWorm
+https://154.197.69.165/crss.exe: AsyncRAT
+https://154.197.69.165/System.exe: DarkComet
+
+SOURCE: https://x.com/RakeshKrish12/status/1854090283631427706
