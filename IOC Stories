@@ -13,7 +13,7 @@ Hence, it can be assumed that this is a staging server for the preparation of an
 Additionally, the group also collects data on luxurious brands such as Luxottica (Premium Eyewear), DeltaDental, Acuity (Insurance Provider), WatchMax (UK’s Diamond Jewellary) etc in a folder named “ZZ.TG.Downloads”. 
 
 SOURCE: https://x.com/RakeshKrish12/status/1853703793101492487
-
+==============================================================================================================================================================================
 IOC
 154.197.69.165 🇹🇭
 https://154.197.69.165/
@@ -31,3 +31,61 @@ https://154.197.69.165/crss.exe: AsyncRAT
 https://154.197.69.165/System.exe: DarkComet
 
 SOURCE: https://x.com/RakeshKrish12/status/1854090283631427706
+==============================================================================================================================================================================
+IOC
+116.198.204.121 🇨🇳
+https://116.198.204.121:8081/
+
+TITLE: Found in a Chinese Server with malicious files with low detection
+
+STORY:
+A bunch of unknown malicious files got surfaced on a clean Chinese Server with 0 detections
+
+MD5: f92476fba97ccd4b2fad5b5e2f9c14d6
+SHA-1: b097c3a3102dcf08b91465e1069d8727f49dcfc5
+SHA-256: 304c984cac7eea67584ec0d9169888e6408a75c4661a37ec9392a0da6fa607d2 
+File: downloader.exe
+Note: Entry Point -> 0x140001125 and Image Base -> 0x140000000 are exact match found in Dark Power Ransomware. 
+
+MD5: d74309da836402d8296741e928361c44
+SHA-1: 68a32ed9e2f9b0f6bdbaa5da39a33642263129a7
+SHA-256: b50bdfa4dc778404fda39499f2627c4c510fb7c650daee5147e851090b3ab820 
+File: linux_x64_agent_no_crypt
+Note: Stowaway Backdoor and Linux Proxy are being detected
+
+MD5: ee3f845b0064d326c91bc200fe87fa2e
+SHA-1: e9d99e982eef27dea832f38a3ba8e0b25ff3fc8e
+SHA-256: 134ef7be21da1bf756cc595ddd67b1caedda2ab4bb200ef9bbec5173aff7ffb1 
+Filename: app.exe
+Note: Imphashes detected for IRCBot, Cobalt Strike and RedLine Stealer
+
+MD5: 9e47f8e4d01a07beda68545f91bd55db
+SHA-1: 9f1571f2914fc27c1b34bc8a3e3ddfd9f1e82b68
+SHA-256: 2c412c91411ae22f34681f0d0791ec90cc5629c31ffef608b8d7a4250af69c9d 
+Filename: download.bin
+Note: Shellcode detected as "marte"
+
+MD5: 4afb08e6344cdb20cb9525031545e6be
+SHA-1: 67288e66d70c6713b88561676f32941553058bf8
+SHA-256: f0a3c1d44712277009abdb87f7f013e5f52cd9c1601566bcac980a7ae2dd8ede 
+Filename: copy
+Note: Unknown ELF File
+
+MD5: c7b552f77c3c9564bc931f53709edc5a
+SHA-1: 185cce381408a2d434121e0794e7dbe160626d18
+SHA-256: 85d7f682649f5dc723bde35806f8034ac1a6246637895c60877c7ac4aeaff11f 
+Filename: AlliN.octet-stream
+Note: Linux Trojan detected
+
+MD5: 276d453457f21e58f847f817267f1a62
+SHA-1: b70c9a84bb272c80ded6e34736c5539131a00ca7
+SHA-256: 4a6ccfbccb0c2d650b309ebd897e68048dbb428d206a742c26eaa978e6fcdfa2 
+Filename: iptables-pf.sh
+Note: Shell Script detected
+
+ASN: AS137699 Activity
+"ReverseSSH|supershell-c2 in October 2024
+Cobalt Strike in August 2024
+
+SOURCE: 
+==============================================================================================================================================================================
