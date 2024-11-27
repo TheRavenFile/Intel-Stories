@@ -101,3 +101,33 @@ Phishing Domains of PNC Bank (Pennsylvania, United States) found during an inves
 US based bank. Hence, it is notable that this IP address primarily used for hosting Phishing Domains targeting 🇺🇸 US Banks.
 
 SOURCE: https://x.com/RakeshKrish12/status/1859122503668691349
+
+=============================================================================================================================================================================
+IOC 
+
+SNATCH RANSOMWARE
+MD5: f9bf364f42f6e4d4bdc2cae74d6ca4cc
+SHA-1: b3759d5a6412d085556fb081fd710ce62f18687f
+SHA-256: 510e9fa38a08d446189c34fe6125295f410b36f00aceb65e7b4508e9d7c4e1d1 
+
+ZUSY/TINBA
+MD5: ddf7659662d125c02bbd11f1394b854e
+SHA-1: 6945f9c49fa021c63075b45d5cade426e04aee32
+SHA-256: f6dcb69310390ce9afed3c16fbcf9636c4fec904141445953b800e2ee33fe6d2
+
+ZUSY/TINBA
+MD5: dd867012525fb4ee32008e157b5237f9
+SHA-1: 338ed4434bb01be7d1d55fc2147c4eb006ece3cc
+SHA-256: 86800516708913124382b743edf8088a0497e411cabb7a1950334ca4bb8ce8da 
+
+ZUSY/TINBA
+MD5: 81d2b68573b219e9fdee633d7c0e31c0
+SHA-1: 98b89df815748e9167cdd07eb793c478ee5e61de
+SHA-256: 53793ab9d7108e311188287037c81ac572a71b12bf5bb697a063c490baf9aee5
+
+TITLE: SNATCH RANSOMWARE SIGNER USED IN ZUSY/TINBA BANKING MALWARE
+
+STORY:
+A Valid Signer is used by Snatch Ransomware, obtained in the name of UNIVERSAL BUSINESS VENTURES, LLC in 2022. The same signer is now being used by Zusy/Tinba Malware in 2024. All files are disguised as Windows Defender Component: SecretDigestionApplication.exe
+
+SOURCE: https://x.com/RakeshKrish12/status/1861672593255997552
