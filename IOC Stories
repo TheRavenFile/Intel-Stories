@@ -131,3 +131,34 @@ STORY:
 A Valid Signer is used by Snatch Ransomware, obtained in the name of UNIVERSAL BUSINESS VENTURES, LLC in 2022. The same signer is now being used by Zusy/Tinba Malware in 2024. All files are disguised as Windows Defender Component: SecretDigestionApplication.exe
 
 SOURCE: https://x.com/RakeshKrish12/status/1861672593255997552
+=============================================================================================================================================================================
+IOC
+
+📍129.154.53.124 🇰🇷
+Running Oracle Cloud
+Server: Apache/2.4.52 (Ubuntu)
+
+BCDROPPER
+Filename: dropper.ko
+MD5: d734c6a86fab0c66a899d3412347bc99
+SHA-1: bddf2a7b3152942d3a829e63c03c7427f038b86d
+SHA-256: 0a54fe932ebc3e4fd5aeaf094ac163c9e92d1efa7ab66af3d1cbd2cb9ee4c294 
+
+Bootkitty UEFI bootkit
+Filename: bootkit.efi
+MD5: 43e0656340c4c6ccf7f22f3ddc75ded2
+SHA-1: 35adf3aed60440da7b80f3c452047079e54364c1
+SHA-256: f1f84819bdf395d42c36adb36ded0e7de338e2036e174716b5de71abc56f5d40  
+
+BCObserver
+Filename: observer
+MD5: 23943ba4aeee2cd9795e072c93b18d63
+SHA-1: e8af4ed17f293665136e17612d856fa62f96702d
+SHA-256: 9ee580a9be05b44a9b5102701c8cf45417c3a96617dbf73c40ac5ac4773dfe97 
+
+TITLE: FOUND A KOREAN 🇰🇷 IP HOSTING UEFI BOOTKITTY BOOTKIT TARGETING LINUX
+
+STORY: An IP address hosting all 3 malwares - Rootkit Agents BCDropper and BCObserver and Bootkitty were found.While analyzing BCDropper (d734c6a86fab0c66a899d3412347bc99) found few code match with Snapekit, which is a sophisticated rootkit targeting Arch Linux (6.10.2-arch1-1 x86_64). It hooks 21 syscalls, hides its payload, and evades detection by dropping in user space while dodging analysis tools & debuggers, uncovered by Gen ThreatLabs in October 2024. Bootkitty (43e0656340c4c6ccf7f22f3ddc75ded2) has a network communication established with 188.114.97.7, a Cloudflare IP which is commonly used for malicious communications. The other 2 samples does not have any code-overlap with any other existing malware (as of now).
+
+SOURCE: 
+=============================================================================================================================================================================
