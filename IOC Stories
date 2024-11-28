@@ -160,5 +160,5 @@ TITLE: FOUND A KOREAN 🇰🇷 IP HOSTING UEFI BOOTKITTY BOOTKIT TARGETING LINUX
 
 STORY: An IP address hosting all 3 malwares - Rootkit Agents BCDropper and BCObserver and Bootkitty were found.While analyzing BCDropper (d734c6a86fab0c66a899d3412347bc99) found few code match with Snapekit, which is a sophisticated rootkit targeting Arch Linux (6.10.2-arch1-1 x86_64). It hooks 21 syscalls, hides its payload, and evades detection by dropping in user space while dodging analysis tools & debuggers, uncovered by Gen ThreatLabs in October 2024. Bootkitty (43e0656340c4c6ccf7f22f3ddc75ded2) has a network communication established with 188.114.97.7, a Cloudflare IP which is commonly used for malicious communications. The other 2 samples does not have any code-overlap with any other existing malware (as of now).
 
-SOURCE: 
+SOURCE: https://x.com/RakeshKrish12/status/1862036889714475123
 =============================================================================================================================================================================
