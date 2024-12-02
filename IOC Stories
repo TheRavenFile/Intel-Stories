@@ -162,3 +162,28 @@ STORY: An IP address hosting all 3 malwares - Rootkit Agents BCDropper and BCObs
 
 SOURCE: https://x.com/RakeshKrish12/status/1862036889714475123
 =============================================================================================================================================================================
+IOC
+
+43.239.192.176 🇮🇳
+http://43.239.192.176:82/
+
+AGENT TESLA
+MD5: 290f8235fb1905c4130ba3d04a230db7
+SHA-1: 133b906e4aaa442f162e20a05193e8372c40c7e9
+SHA-256: f02d3f90f95c108482935ebb204cf53f017c6625d70e21bb3f0876a9ae63c4a4
+Filename: FNGAutoBkpConfig.exe 
+Hosted since: January 7th, 2024
+
+MD5: 7a2f2e2f672854ef6a8810c821a3713e
+SHA-1: 3fbd0fe47244d9005434b509311e70730a24639c
+SHA-256: 7b4125cbea4572509729080268065105093d6e09b14244030c21fe443a0e1857
+Filename: FNGRSWUpdate.exe 
+Hosted since: 20th February 2024
+
+TITLE: FOUND 2 SAMPLES OF AGENT TESLA FROM EARLY 2024
+
+STORY: Among 360+ files, 2 malicious samples of Agent Tesla spotted. All the files are named with "FNG" which indicates it's a targeted attack against an entity which starts with "FNG". The keywords such as Backup, Config, Software Update are used to lure the downloads. 
+
+SOURCE: https://x.com/RakeshKrish12/status/1863492292931469414
+=============================================================================================================================================================================
+
