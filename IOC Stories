@@ -186,4 +186,16 @@ STORY: Among 360+ files, 2 malicious samples of Agent Tesla spotted. All the fil
 
 SOURCE: https://x.com/RakeshKrish12/status/1863492292931469414
 =============================================================================================================================================================================
+IOC
 
+45.135.232.195 🇷🇺
+http://45.135.232.195:3001/login
+http://45.135.232.195:2001/login
+Body Hash SHA1: 9f082dadacd8a4d828f48330f4d8cf38ec5d70cc
+
+TITLE: FOUND LOGIN PANEL OF DRAGONFORCE RANSOMWARE
+
+STORY: DragonForce Ransomware using notable Russian Bulletproof service Proton66 (AS198953) to host their Login Panels.
+
+SOURCE: https://x.com/RakeshKrish12/status/1866375557262569632
+=============================================================================================================================================================================
