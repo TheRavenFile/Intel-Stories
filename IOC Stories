@@ -199,3 +199,16 @@ STORY: DragonForce Ransomware using notable Russian Bulletproof service Proton66
 
 SOURCE: https://x.com/RakeshKrish12/status/1866375557262569632
 =============================================================================================================================================================================
+IOC 
+124.223.12.165 🇨🇳
+http://124.223.12.165/
+Domain: njaustrawberry.asia
+MD5: da15e8aa592ad3fd7a43bba187a4a706
+MD5: 633f04c0fb60f1cf26916da0bb680f8e
+
+
+TITLE: COBALT STRIKE FOUND IN OPEN DIR
+
+STORY: A sample of Cobalt Strike Loader is being active since August 2024. In Malware Bazaar, the same record is shown as "OFFLINE" however, the same is still online and is accessible. 
+
+SOURCE: https://x.com/RakeshKrish12/status/1874661850283118873
