@@ -212,3 +212,17 @@ TITLE: COBALT STRIKE FOUND IN OPEN DIR
 STORY: A sample of Cobalt Strike Loader is being active since August 2024. In Malware Bazaar, the same record is shown as "OFFLINE" however, the same is still online and is accessible. 
 
 SOURCE: https://x.com/RakeshKrish12/status/1874661850283118873
+=============================================================================================================================================================================
+IOC
+193.36.38.116 🇲🇩
+http://193.36.38.116:5000/
+Hash: 5d91563b6acd54468ae282083cf9ee3d2c9b2daa45a8de9cb661c2195b9f6cbf
+
+TITLE: FOUND SNEAKY 2FA PHISHING KIT CAMPAIGN
+
+STORY: Found 2 hosts related to Sneaky 2FA Phishing Kit, which was luring victims with Office 365 Pages. 
+
+SOURCE: https://x.com/RakeshKrish12/status/1881225146352206157
+=============================================================================================================================================================================
+
+
