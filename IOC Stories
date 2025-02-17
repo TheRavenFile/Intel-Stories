@@ -245,5 +245,5 @@ TITLE: Private IP found in Linux Variant of 8Base Ransomware
 
 STORY: Found a Private IP which is a part of Mirai Botnet (that infects Linux Machines) in 8Base Ransomware ELF variant. The same IP address is maliciously used for communicating ELF files. 
 
-SOURCE: 
+SOURCE: https://x.com/RakeshKrish12/status/1891380411462246818
 
