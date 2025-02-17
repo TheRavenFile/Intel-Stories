@@ -236,4 +236,14 @@ TITLE: FOUND POWERSHELL KEYLOGGERS CONTACTING RAGNAR LOCKER RANSOMWARE
 STORY: 2 Powershell files contacting Old RagnarLocker Ransomware Domain with 2025 Recency. Upon scanning, it is found that they are  Posh Keylogger.
 
 SOURCE: https://x.com/RakeshKrish12/status/1888862217438744839
+=============================================================================================================================================================================
+IOC
+169.254.169.254
+MD5: 391d8959d1d506992ce4ede8c6ffc94a
+
+TITLE: Private IP found in Linux Variant of 8Base Ransomware
+
+STORY: Found a Private IP which is a part of Mirai Botnet (that infects Linux Machines) in 8Base Ransomware ELF variant. The same IP address is maliciously used for communicating ELF files. 
+
+SOURCE: 
 
