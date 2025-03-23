@@ -246,4 +246,16 @@ TITLE: Private IP found in Linux Variant of 8Base Ransomware
 STORY: Found a Private IP which is a part of Mirai Botnet (that infects Linux Machines) in 8Base Ransomware ELF variant. The same IP address is maliciously used for communicating ELF files. 
 
 SOURCE: https://x.com/RakeshKrish12/status/1891380411462246818
+=================================================================================================================================================================================
+IOC
+174.138.23.254 🇮🇩
+MD5: 222eab3f409f97b1a3442411676ca689
+MD5: 76a1edc8be35b41f0c99063ff38f61ec
+URL: 174.138.23.254/boom/LB3.exe
+
+TITLE: Old Samples of LockBit still in wild, targeting Indonesia
+
+STORY: Old LockBit samples of 2022 still in Wild, targeting Indonesia 🇮🇩. LockBit 3 was released in 2023, however the sample from 2022 are tagged/named as LB3.
+
+SOURCE: 
 
