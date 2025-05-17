@@ -258,4 +258,25 @@ TITLE: Old Samples of LockBit still in wild, targeting Indonesia
 STORY: Old LockBit samples of 2022 still in Wild, targeting Indonesia 🇮🇩. LockBit 3 was released in 2023, however the sample from 2022 are tagged/named as LB3.
 
 SOURCE: 
+=================================================================================================================================================================================
+IOC
+193.239.86.204 🇭🇰
+185.158.113.114 🇷🇺
+Onion: zdkexsh2e7yihw5uhg5hpsgq3dois2m5je7lzfagij2y6iw5ptl35gyd.onion
 
+TITLE: Mamona Ransomware switched to new Infrastructure from Russian 🇷🇺 Provider to Romanian 🇷🇴 Host
+
+STORY: New infra for Mamona Ransomware found. The hosted IP's ASN is popular in serving: Metastealer, Mirai Bot, AsyncRAT, Meterpreter, Formbook, GuLoader, Mimikatz, StealC, RecordBreaker, RemcosRAT, SocGholish etc.
+IP: 193.239.86.204
+Server: nginx/1.24.0 (Ubuntu)
+ASN: 9009
+Hosting Provider: M247 Europe SRL
+
+Previously, Mamona's builder was hosted on a Russian 🇷🇺 infra, whose ASN only have Russian IPs which is a quick Red Flag for Automated Tools
+IP: 185.158.113.114
+ASN:44812
+Hosting Provider: Ip Server LLC
+
+BlackLock Ransomware takes over Mamona as they have started a TG Channel with name "MamonaRIP" and also advertised the same on their DLS
+SOURCE: 
+=================================================================================================================================================================================
