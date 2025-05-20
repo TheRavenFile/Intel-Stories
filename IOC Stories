@@ -278,5 +278,18 @@ ASN:44812
 Hosting Provider: Ip Server LLC
 
 BlackLock Ransomware takes over Mamona as they have started a TG Channel with name "MamonaRIP" and also advertised the same on their DLS
+SOURCE: https://x.com/RakeshKrish12/status/1923627041414386113
+=================================================================================================================================================================================
+IOC
+38.132.122.213 🇺🇸
+38.132.122.214 🇺🇸
+Onion: qljmlmp4psnn3wqskkf3alqquatymo6hntficb4rhq5n76kuogcv7zyd.onion
+
+TITLE: REAL IP EXPOSED OF DEVMAN RANSOMWARE
+
+STORY: Found real IPs of Devman Ransomware, an affiliate of Qilin and APOS Group with 36 victims including 2 Chinese Victims. They used tools Used such as CrackMapExec, EternalBlue Exploit (MS17-010), iamdidy.exe (from APOS)
+Same ASN is used which recently hosted Mamona Ransomware. Previously hosted with 83.217.209.210 🇷🇺 (AS 215826). Unlike other Ransomware Groups, leaks are not yet published for any victim
+
 SOURCE: 
 =================================================================================================================================================================================
+
