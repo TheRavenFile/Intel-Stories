@@ -312,5 +312,10 @@ STORY: 7 Executables of PrivateLoader are found in a Google Hosted Server.
 
 =================================================================================================================================================================================
 
+IOC
+MD5: c07b712a984a506042ea2cf6e193f20c
 
+TITLE: SCREENCONNECT MALWARE IN A COMPROMISED LEAK
+
+STORY: Found potential tool with 42 detections in the data leak of a company by a Ransomware Group
 
